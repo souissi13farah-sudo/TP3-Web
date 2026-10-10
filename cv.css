@@ -9,14 +9,6 @@ h1, .p1 {
     text-align: center;
 }
 
-p1 {
-  font-weight: bold;
-}
-
-p2{
-    text-align: left;
-    font-family: monospace;
-}
 
 header{
     border-top-style: solid;
